@@ -1,0 +1,13 @@
+C:\Users\s00155398\Documents\Visual Studio 2015\Projects\S00155398SignalRChatEx2016\Signal R Chat Client\bin\Debug\Signal R Chat Client.exe.config
+C:\Users\s00155398\Documents\Visual Studio 2015\Projects\S00155398SignalRChatEx2016\Signal R Chat Client\bin\Debug\Signal R Chat Client.exe
+C:\Users\s00155398\Documents\Visual Studio 2015\Projects\S00155398SignalRChatEx2016\Signal R Chat Client\bin\Debug\Signal R Chat Client.pdb
+C:\Users\s00155398\Documents\Visual Studio 2015\Projects\S00155398SignalRChatEx2016\Signal R Chat Client\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\s00155398\Documents\Visual Studio 2015\Projects\S00155398SignalRChatEx2016\Signal R Chat Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s00155398\Documents\Visual Studio 2015\Projects\S00155398SignalRChatEx2016\Signal R Chat Client\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\s00155398\Documents\Visual Studio 2015\Projects\S00155398SignalRChatEx2016\Signal R Chat Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s00155398\Documents\Visual Studio 2015\Projects\S00155398SignalRChatEx2016\Signal R Chat Client\obj\Debug\Signal R Chat Client.csprojResolveAssemblyReference.cache
+C:\Users\s00155398\Documents\Visual Studio 2015\Projects\S00155398SignalRChatEx2016\Signal R Chat Client\obj\Debug\Signal R Chat Client.exe
+C:\Users\s00155398\Documents\Visual Studio 2015\Projects\S00155398SignalRChatEx2016\Signal R Chat Client\obj\Debug\Signal R Chat Client.pdb
+C:\Users\s00155398\Source\Repos\SignalRChatHub\S00155398SignalRChatEx2016\Signal R Chat Client\bin\Debug\Signal R Chat Client.exe.config
+C:\Users\s00155398\Source\Repos\SignalRChatHub\S00155398SignalRChatEx2016\Signal R Chat Client\obj\Debug\Signal R Chat Client.exe
+C:\Users\s00155398\Source\Repos\SignalRChatHub\S00155398SignalRChatEx2016\Signal R Chat Client\obj\Debug\Signal R Chat Client.pdb
